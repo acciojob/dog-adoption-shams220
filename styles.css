@@ -2,12 +2,12 @@
 /* Your CSS Code here. */
 table{
 border:1px solid grey;
-	    border-collapse: separate;  /* required for border-radius */
-      border-spacing: 0;          /* removes gaps between cells */
+	    border-collapse: separate; 
+      border-spacing: 0;          
       font-family: 'Poppins', sans-serif;
       border: 1px solid #ddd;
-      border-radius: 12px;        /* rounded corners */
-      overflow: hidden;           /* ensures radius is visible */
+      border-radius: 12px;        
+      overflow: hidden;           
 }
 th{
 background-color:grey
